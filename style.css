@@ -26,13 +26,26 @@ padding:10px 10px ;
 border-radius: 5px;
 color:white;
 font-weight:500px;
+
 }
 work-area{
 width:500px;
 
 }
 .one-third-area{
-width:30%;
-float:left;
+width:25%;
+display:inline-block;
+margin:2%;
+padding:2%;
+overflow: auto;
 
+}
+.footer-area{
+    text-align: center;
+}
+.mail-id{
+    font-size: 30px;
+}
+#footer-button{
+    background-color: palevioletred;
 }
